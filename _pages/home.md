@@ -4,9 +4,9 @@ excerpt: "Alicia Cooperman is an Assistant Professor of Political Science and In
 author_profile: true
 ---
 
-I research local and global challenges in water politics and policy, the political economy of development, civil society and accountability, and climate change.
+I am an Assistant Professor of [Political Science](https://politicalscience.columbian.gwu.edu/) and [International Affairs](https://elliott.gwu.edu/) at George Washington University. 
 
-I am an Assistant Professor of [Political Science](https://politicalscience.columbian.gwu.edu/) and [International Affairs](https://elliott.gwu.edu/) at George Washington University.
+I research local and global challenges in water politics and policy, the political economy of development, civil society and accountability, and climate change.
 
 [Read more about me →](/about/)
 
