@@ -96,7 +96,7 @@ talkmap_link               : false
 comments:
   provider               :
 atom_feed:
-  hide                    : false
+  hide                    : true
   path                    :
 
 # SEO Related
