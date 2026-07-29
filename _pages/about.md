@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ I research local and global challenges in water politics and policy, the politic
 
 I am an Assistant Professor of [Political Science](https://politicalscience.columbian.gwu.edu/) and [International Affairs](https://elliott.gwu.edu/) at George Washington University. I was an Assistant Professor in the Department of Political Science at [Texas A&M University](https://liberalarts.tamu.edu/pols/) during 2020-2022. I was a Postdoctoral Research Associate at the [Princeton Institute for International and Regional Studies](https://piirs.princeton.edu/) and the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu) at Princeton University during 2019-2020.
 
-<figure style="width: 100%; margin: 1.5em 0;">
+<figure style="width: 80%; margin: 1.5em 0;">
   <img src="/images/fieldwork.jpg" alt="Fieldwork in rural Northeast Brazil">
 </figure>
 
@@ -26,8 +26,6 @@ I have current or former affiliations with the [Household Water Insecurity Exper
 
 Co-organizer of the [DMV Workshop in Empirical Political Science](https://sites.google.com/view/dmv-weps/home) (DMV-WEPS).
 
-Contact: <acooperman@gwu.edu>
-
 [Currículo Lattes (Brasil)](http://lattes.cnpq.br/7464111589247496)
 
 ## Key Research Areas
@@ -35,24 +33,24 @@ Contact: <acooperman@gwu.edu>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5em; margin: 1.5em 0;">
 
   <div>
-    <a href="/publications/#water-politics">
+    <a href="/research/#water-politics">
       <img src="/images/research-water.jpg" alt="Water security and common pool resource management" style="width: 100%; height: 160px; object-fit: cover;">
     </a>
-    <p style="margin-top: 0.5em;"><strong><a href="/publications/#water-politics">Water Politics: Community Organizing, Equity, and Water Resources</a></strong></p>
+    <p style="margin-top: 0.5em;"><strong><a href="/research/#water-politics">Water Politics: Community Organizing, Equity, and Water Resources</a></strong></p>
   </div>
 
   <div>
-    <a href="/publications/#bloc-voting">
+    <a href="/research/#bloc-voting">
       <img src="/images/research-collective-action.jpg" alt="Community association meeting in rural Brazil" style="width: 100%; height: 160px; object-fit: cover;">
     </a>
-    <p style="margin-top: 0.5em;"><strong><a href="/publications/#bloc-voting">Bloc Voting and Accountability: Political Behavior, Organizing, and the Environment</a></strong></p>
+    <p style="margin-top: 0.5em;"><strong><a href="/research/#bloc-voting">Bloc Voting and Accountability: Political Behavior, Organizing, and the Environment</a></strong></p>
   </div>
 
   <div>
-    <a href="/publications/#disaster-politics">
+    <a href="/research/#disaster-politics">
       <img src="/images/research-disasters.jpg" alt="Drought in Northeast Brazil" style="width: 100%; height: 160px; object-fit: cover;">
     </a>
-    <p style="margin-top: 0.5em;"><strong><a href="/publications/#disaster-politics">Disaster Politics: Political Behavior and the Environment</a></strong></p>
+    <p style="margin-top: 0.5em;"><strong><a href="/research/#disaster-politics">Disaster Politics: Political Behavior and the Environment</a></strong></p>
   </div>
 
 </div>

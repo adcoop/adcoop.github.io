@@ -7,12 +7,10 @@
 main:
   - title: "About"
     url: /
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
   - title: "Teaching"
     url: /teaching/
-  - title: "Ongoing Research"
-    url: /ongoing-research/
   - title: "Book Project"
     url: /book-project/
   - title: "CV"
