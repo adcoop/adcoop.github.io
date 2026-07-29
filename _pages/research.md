@@ -131,7 +131,7 @@ Cooperman, Alicia Dailey. 2017. "Randomization Inference with Rainfall Data: Usi
 
 Cooperman, Alicia. 2025. Review of *Slow Harms and Citizen Action: Environmental Degradation and Policy Change in Latin American Cities*, by Veronica Herrera. *Social Change* 55 (3): 513–516. <https://doi.org/10.1177/00490857251355104>
 
-Cooperman, Alicia. 2024. "As Associações Comunitárias e a Política De Base: Votação em Bloco para Responsabilidade Eleitoral." Red de Estudios sobre Política Subnacional en América Latina. <https://sites.google.com/view/redsubnacional/blog>
+Cooperman, Alicia. 2024. "As Associações Comunitárias e a Política De Base: Votação em Bloco para Responsabilidade Eleitoral." Red de Estudios sobre Política Subnacional en América Latina. <https://sites.google.com/view/redsubnacional/blog/31524-as-associa%C3%A7%C3%B5es-comunit%C3%A1rias-e-a-pol%C3%ADtica-de-base?authuser=0>
 
 Cooperman, Alicia. 2020. Review of *Transforming Rural Water Governance: The Road from Resource Management to Political Activism in Nicaragua*, by Sarah T. Romano. *Perspectives on Politics* 18 (4): 1249–1250. <https://doi.org/10.1017/S1537592720003011>
 
