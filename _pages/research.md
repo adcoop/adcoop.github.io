@@ -7,6 +7,27 @@ redirect_from:
   - /ongoing-research/
 ---
 
+<style>
+/* Scoped to this page only — makes the citation list denser and easier to scan */
+.page__content p {
+  font-size: 0.82em;
+  line-height: 1.55;
+  margin: 0 0 0.75em 0;
+  /* hanging indent: first line flush, wrapped lines indented */
+  padding-left: 1.6em;
+  text-indent: -1.6em;
+}
+.page__content h2 {
+  font-size: 1.25em;
+  margin-top: 1.8em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #e8e8e8;
+}
+.page__content p strong:only-child {
+  font-size: 1.05em;
+}
+</style>
+
 My research is organized around four areas. Please email me for copies of any work in progress.
 
 ## Local Politics and Accountability: Political Behavior, Community Organizing, and the Environment {#bloc-voting}
