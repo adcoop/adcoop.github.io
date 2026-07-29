@@ -1,56 +1,72 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
+excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I research local and global challenges in water politics and policy, the political economy of development, civil society and accountability, and climate change.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am an Assistant Professor of [Political Science](https://politicalscience.columbian.gwu.edu/) and [International Affairs](https://elliott.gwu.edu/) at George Washington University. I was an Assistant Professor in the Department of Political Science at [Texas A&M University](https://liberalarts.tamu.edu/pols/) during 2020-2022. I was a Postdoctoral Research Associate at the [Princeton Institute for International and Regional Studies](https://piirs.princeton.edu/) and the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu) at Princeton University during 2019-2020.
 
-A data-driven personal website
+<figure style="width: 100%; margin: 1.5em 0;">
+  <img src="/images/fieldwork.jpg" alt="Fieldwork in rural Northeast Brazil">
+</figure>
+
+Climate change increasingly shapes political relationships within and across countries. My research applies core political questions of distributive politics, collective action, and democratic accountability to critical policy issues in development and the environment, especially water policy and climate change. Through in-depth applied field research, causal inference methodologies, and rigorous statistical analysis, I provide a deeper awareness of local social and political realities and their influence on sustainable development.
+
+My work is forthcoming or has been published in *American Political Science Review*, *Proceedings of the National Academy of Sciences*, *Political Analysis*, *Comparative Political Studies*, *Global Environmental Change*, and *WIREs Water*, among others. My book, *Grassroots Power: Bloc Voting and Local Democracy in Brazil*, is under production at Cambridge University Press and will be published in March 2027. I have received generous funding from multiple sources including the [National Science Foundation](https://www.nsf.gov/index.jsp), the United States Geological Survey, the [Fulbright-Hays Program](https://www2.ed.gov/programs/iegpsddrap/index.html), and [Evidence in Governance and Politics (EGAP)](http://egap.org). I have conducted extensive applied research in Brazil (2016-2017 and 2022-2025) using field experiments, survey experiments, original household surveys, analysis of climate and electoral data, and qualitative methods.
+
+I received a Ph.D. in Political Science from [Columbia University](https://polisci.columbia.edu/) in 2019. I received a Master of International Affairs (MIA) in 2013 from UC San Diego's School of Global Policy & Strategy (formerly IR/PS). I graduated Phi Beta Kappa from Stanford University in 2008 with a B.A. in Human Biology.
+
+I have current or former affiliations with the [Household Water Insecurity Experiences (HWISE) Research Coordination Network](https://hwise-rcn.org/), the Research and Engagement for Action on Climate and Health (REACH) Center, the Local Sustainable Governance Policy Lab, and the Alliance for a Sustainable Future at George Washington University, the Princeton Behavioral Science for Policy Lab and [Brazil LAB](https://brazillab.princeton.edu/), [Fundação Getúlio Vargas (FGV)](https://ebape.fgv.br/en) in Rio de Janeiro, Brazil, and [Universidade Federal do Ceará (UFC)](http://www.ufc.br/) in Fortaleza, Brazil.
+
+Co-organizer of the [DMV Workshop in Empirical Political Science](https://sites.google.com/view/dmv-weps/home) (DMV-WEPS).
+
+Contact: <acooperman@gwu.edu>
+
+[Currículo Lattes (Brasil)](http://lattes.cnpq.br/7464111589247496)
+
+## Key Research Areas
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5em; margin: 1.5em 0;">
+
+  <div>
+    <a href="/publications/#water-politics">
+      <img src="/images/research-water.jpg" alt="Water security and common pool resource management" style="width: 100%; height: 160px; object-fit: cover;">
+    </a>
+    <p style="margin-top: 0.5em;"><strong><a href="/publications/#water-politics">Water Politics: Community Organizing, Equity, and Water Resources</a></strong></p>
+  </div>
+
+  <div>
+    <a href="/publications/#bloc-voting">
+      <img src="/images/research-collective-action.jpg" alt="Community association meeting in rural Brazil" style="width: 100%; height: 160px; object-fit: cover;">
+    </a>
+    <p style="margin-top: 0.5em;"><strong><a href="/publications/#bloc-voting">Bloc Voting and Accountability: Political Behavior, Organizing, and the Environment</a></strong></p>
+  </div>
+
+  <div>
+    <a href="/publications/#disaster-politics">
+      <img src="/images/research-disasters.jpg" alt="Drought in Northeast Brazil" style="width: 100%; height: 160px; object-fit: cover;">
+    </a>
+    <p style="margin-top: 0.5em;"><strong><a href="/publications/#disaster-politics">Disaster Politics: Political Behavior and the Environment</a></strong></p>
+  </div>
+
+</div>
+
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**Columbia University**, 2013 - 2019
+* Ph.D., Political Science (2019)
+* M.Phil., Political Science (2016)
+* M.A., Political Science (2014)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**University of California, San Diego**, 2010 - 2013
+* Master of International Affairs
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Stanford University**, 2004 - 2008
+* B.A., Human Biology
+* Phi Beta Kappa
