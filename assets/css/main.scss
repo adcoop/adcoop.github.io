@@ -37,3 +37,10 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* ---- Custom overrides ---- */
+
+.page__footer {
+  position: static;
+  margin-top: 3em;
+}
