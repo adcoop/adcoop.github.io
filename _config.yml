@@ -13,9 +13,9 @@ title                    : "Alicia Cooperman, PhD"
 title_separator          : "-"
 name                     : &name "Alicia Cooperman"
 description              : &description "Alicia Cooperman is a political scientist who researches local and global challenges in the political economy of development, civil society and accountability, water and energy policy, and climate change."
-url                       : https://adcoop.github.io
-baseurl                   : ""
-repository                : "adcoop/adcoop.github.io" 
+url			 : "https://www.aliciacooperman.com"
+baseurl                  : ""
+repository               : "adcoop/adcoop.github.io" 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:

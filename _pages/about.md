@@ -4,6 +4,7 @@ permalink: /about/
 excerpt: "About Alicia Cooperman"
 author_profile: true
 redirect_from:
+  - /about-me
   - /about-me/
   - /about.html
 ---

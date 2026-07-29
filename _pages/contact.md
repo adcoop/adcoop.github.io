@@ -2,6 +2,9 @@
 title: "Contact"
 permalink: /contact/
 author_profile: true
+redirect_from:
+  - /contact-me
+  - /contact-me/
 ---
 
 **Alicia Cooperman, PhD**

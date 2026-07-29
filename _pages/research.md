@@ -5,6 +5,9 @@ author_profile: true
 redirect_from:
   - /publications/
   - /ongoing-research/
+  - /publications
+  - /ongoing
+  - /ongoing/
 ---
 
 <style>
