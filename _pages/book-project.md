@@ -12,7 +12,7 @@ Organized civil society groups — even those as seemingly small as neighborhood
 
 Contrary to stereotypes of disengaged, coerced voters, this mixed methods study shows the impact of grassroots bloc voting and community organizing on public service provision, especially water resources, in rural Brazil. While many scholars argue that bloc voting represents a coercive form of collective clientelism, I argue that bloc voting can also be an effective grassroots strategy at the neighborhood level.
 
-<figure style="width: 100%; margin: 1.5em 0;">
+<figure style="width: 60%; margin: 1.5em 0;">
   <img src="/images/book-community-meeting.jpg" alt="Community association meeting in rural Northeast Brazil">
 </figure>
 
