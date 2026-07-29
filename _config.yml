@@ -31,10 +31,10 @@ author:
   # Academic websites
   academia           :
   arxiv              :
-  googlescholar       : "https://scholar.google.com/citations?user=GeyxOgMAAAAJ&hl=en"
+  googlescholar      : "https://scholar.google.com/citations?user=GeyxOgMAAAAJ&hl=en"
   inspire-hep        :
   impactstory        :
-  orcid              :
+  orcid              : "https://orcid.org/0000-0002-1652-4488"
   semantic           :
   ssrn               :
   pubmed             :
