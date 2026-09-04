@@ -51,7 +51,7 @@ Cooperman, Alicia, and Emily Rains. "Climate Politics from the Margins: Environm
 
 **Working Papers**
 
-Cooperman, Alicia, Andrea Junqueira, Thiago Moreira, and Manuela Muñoz. "Local Distributive Politics: Municipal Legislative Behavior and Neighborhood Service Provision in Brazil."
+Cooperman, Alicia, Andrea Junqueira, Thiago Moreira, and Manuela Muñoz. "Local Distributive Politics: Municipal Legislative Behavior and Neighborhood Service Provision in Brazil." <http://dx.doi.org/10.2139/ssrn.7376538>
 
 Constantino, Sara, Alicia Cooperman, and Manuela Muñoz. "Neighborhood-Based Organizations as Political Actors: Implications for Political Participation, Inequality, and Climate Resilience." <https://doi.org/10.2139/ssrn.4496935>
 
@@ -78,11 +78,9 @@ Constantino, Sara, Alicia Cooperman, and Thiago Moreira. 2021. "Voting in a Glob
 
 **Under Review**
 
-Constantino, Sara, Alicia Cooperman, Jessica Geiger, Manuela Muñoz, Aksel Sundström, and Lauren Yehle. "The Political Costs and Benefits of Natural Disasters: Synthesis Proposal for APSR." Under review after resubmission (R&R) at *American Political Science Review*.
+Constantino, Sara, Alicia Cooperman, Jessica Geiger, Manuela Muñoz, Aksel Sundström, and Lauren Yehle. "The Political Costs and Benefits of Natural Disasters: Synthesis Proposal for APSR." Invitation for full synthesis at *American Political Science Review*.
 
 Constantino, Sara, Alicia Cooperman, Sophia Jingxuan Hu, and Dan Ziebarth. "Extreme Weather Impacts and Climate Policy Preferences in India and the United States." Under review after resubmission (R&R) at *Climatic Change*.
-
-Martin, Aaron, Rachael Shwom, Sara Constantino, Alicia Cooperman, and Elke Weber. "Decision-Making Under Organized Irresponsibility: Climate Change and Extreme Weather." Under review at *Global Environmental Change*.
 
 **Working Papers**
 
@@ -91,6 +89,8 @@ Constantino, Sara, Alicia Cooperman, and Megan Mullin. "Protection or Coercion? 
 Constantino, Sara, Alicia Cooperman, Manuela Muñoz, and Victor Wu. "Winning and Losing the Presidency Change Expectations of Federal Responsiveness, Not Beliefs About Federalism: Evidence from Disaster Relief and the 2024 U.S. Election."
 
 Muñoz, Manuela, Sara Constantino, Alicia Cooperman, Allison Deese, Carol Goldsmith, and Arnold Vedlitz. "Who Participates in Local Politics? Linking Flood Exposure, Risk Awareness, Social Capital and Urban Infrastructure Provision."
+
+Martin, Aaron, Rachael Shwom, Sara Constantino, Alicia Cooperman, and Elke Weber. "Decision-Making Under Organized Irresponsibility: Climate Change and Extreme Weather." 
 
 ## Water Politics: Equity, Collective Action, and Water Resources {#water-politics}
 
