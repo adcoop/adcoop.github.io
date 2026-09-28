@@ -27,7 +27,7 @@ I have current or former affiliations with the [Household Water Insecurity Exper
 
 Co-organizer of the [DMV Workshop in Empirical Political Science](https://sites.google.com/view/dmv-weps/home) (DMV-WEPS).
 
-In my free time, you can find me traveling and going to concerts with my wife, enjoying lap time with my elder tan tabby cat, playing clarinet in DC's Different Drummers Symphonic Band, and running or hiking in Rock Creek Park.
+In my free time, you can find me traveling and going to concerts with my wife, enjoying lap time with our elder tan tabby cat, playing clarinet in DC's Different Drummers Symphonic Band, and running or hiking in Rock Creek Park.
 
 Education
 ======
